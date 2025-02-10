@@ -250,8 +250,10 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “The AI-powered funnel completely transformed how we acquire users for
+          our SaaS. The customization and actionable strategies made all the
+          difference. We saw a 40% increase in paying users within three
+          months!”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
