@@ -250,10 +250,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “The AI-powered funnel completely transformed how we acquire users for
-          our SaaS. The customization and actionable strategies made all the
-          difference. We saw a 40% increase in paying users within three
-          months!”
+          “The customization and actionable strategies made all the difference.
+          We saw a 40% increase in paying users within three months!”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
