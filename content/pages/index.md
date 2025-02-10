@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: Funnels Tailored to Your SaaS Business
         text: >+
           We understand that every SaaS is different. That’s why we design
