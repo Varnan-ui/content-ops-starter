@@ -108,7 +108,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: ''
         subtitle: Actionable Insights for Maximum Conversions
         text: >
           Powered by advanced AI algorithms, our funnels analyze user behavior
