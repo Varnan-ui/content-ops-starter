@@ -85,10 +85,11 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: Engage Users Across Multiple Platforms
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our funnels work seamlessly across various channels like social media,
+          email, paid ads, and your website. Maximize your SaaS’s reach and
+          guide users smoothly through the buyer’s journey, no matter where
+          they’re coming from
         image:
           url: /images/icon2.svg
           altText: Featured icon two
