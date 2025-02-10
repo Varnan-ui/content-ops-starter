@@ -209,11 +209,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: How Our Custom Funnels Help Your SaaS Scale
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Our AI-powered custom funnels are designed to take the guesswork out of
+      SaaS marketing. By leveraging advanced analytics and tailored strategies,
+      these funnels help you consistently attract high-quality users, guide them
+      through an optimized buyer’s journey, and convert them into paying
+      customers. Whether you’re struggling to grow your user base or boost your
+      subscription revenue, our funnels provide a proven roadmap for success.
+      With actionable insights and multi-channel compatibility, you’ll save
+      time, reduce marketing costs, and focus on what truly matters—building
+      your SaaS
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
