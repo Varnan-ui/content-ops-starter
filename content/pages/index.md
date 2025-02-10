@@ -236,7 +236,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title: Divider
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
