@@ -276,8 +276,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "I was skeptical at first, but this funnel exceeded my expectations.
+          It’s intuitive, scalable, and delivers results. I finally feel like my
+          marketing has direction."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
