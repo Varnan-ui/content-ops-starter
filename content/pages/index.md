@@ -253,7 +253,7 @@ sections:
           “The customization and actionable strategies made all the difference.
           We saw a 40% increase in paying users within three months!”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Aarav Mehta, Founder, CloudCraft Solutions'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
