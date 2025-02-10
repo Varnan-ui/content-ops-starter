@@ -56,9 +56,11 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Funnels Tailored to Your SaaS Business
-        text: >
+        text: >+
           We understand that every SaaS is different. That’s why we design
-          funnels exclusively for your product and audience. 
+          funnels exclusively for your product and audience. From identifying
+          your target users to crafting custom strategies
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
