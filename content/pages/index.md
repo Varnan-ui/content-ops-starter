@@ -281,10 +281,7 @@ sections:
           marketing has direction."
         tagline: Testimonial 2
         subtitle: 'Suzie, CEO, SyncHive Technologies'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           altText: John Doe
           styles:
