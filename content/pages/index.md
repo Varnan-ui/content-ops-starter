@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: AI-Powered Custom Marketing Funnels Designed to Grow Your SaaS
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
