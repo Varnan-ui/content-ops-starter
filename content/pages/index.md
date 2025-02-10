@@ -338,7 +338,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Let’s Build Your SaaS Growth Together
+      text: Let’s Get You New Users for your SAAS
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
