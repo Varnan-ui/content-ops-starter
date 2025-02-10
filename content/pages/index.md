@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: AI-Powered Custom Marketing Funnels Designed to Grow Your SaaS
+      text: AI-Powered Custom Marketing Funnels
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
