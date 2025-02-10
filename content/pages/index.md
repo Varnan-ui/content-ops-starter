@@ -56,10 +56,12 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Funnels Tailored to Your SaaS Business
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We understand that every SaaS is different. That’s why we design
+          funnels exclusively for your product and audience. From identifying
+          your target users to crafting strategies that turn them into paying
+          customers, our AI ensures that every step of the funnel aligns with
+          your unique goals
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
