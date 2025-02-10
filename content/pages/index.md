@@ -202,6 +202,40 @@ sections:
           - pr-7
     type: DividerSection
   - title:
+      text: Grow your Saas 10x faster
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: How Our Custom Funnels Help Your SaaS Scale
+    text: >+
+      <div style="text-align: center">Our AI-powered custom funnels are designed
+      to take the guesswork out of SaaS marketing. By leveraging advanced
+      analytics and tailored strategies, these funnels help you consistently
+      attract high-quality users, guide them through an optimized buyer’s
+      journey, and convert them into paying customers. Whether you’re struggling
+      to grow your user base or boost your subscription revenue, our funnels
+      provide a proven roadmap for success. With actionable insights and
+      multi-channel compatibility, you’ll save time, reduce marketing costs, and
+      focus on what truly matters—building your SaaS</div>
+
+    badge:
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+  - title:
       text: Social Media Management
       color: text-dark
       type: TitleBlock
@@ -235,40 +269,6 @@ sections:
     styles:
       self:
         alignItems: center
-    type: GenericSection
-  - title:
-      text: Grow your Saas 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: How Our Custom Funnels Help Your SaaS Scale
-    text: >+
-      <div style="text-align: center">Our AI-powered custom funnels are designed
-      to take the guesswork out of SaaS marketing. By leveraging advanced
-      analytics and tailored strategies, these funnels help you consistently
-      attract high-quality users, guide them through an optimized buyer’s
-      journey, and convert them into paying customers. Whether you’re struggling
-      to grow your user base or boost your subscription revenue, our funnels
-      provide a proven roadmap for success. With actionable insights and
-      multi-channel compatibility, you’ll save time, reduce marketing costs, and
-      focus on what truly matters—building your SaaS</div>
-
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
     type: GenericSection
   - title:
       text: Business Consulting
