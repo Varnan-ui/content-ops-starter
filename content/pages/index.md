@@ -307,7 +307,7 @@ sections:
           this AI custom funnel. The strategies were spot on, and the
           multi-channel integration was a game changer!"
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Rohit Kapoor, Product Manager, TaskFlow SaaS'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
