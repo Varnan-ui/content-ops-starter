@@ -87,9 +87,8 @@ sections:
         subtitle: Engage Users Across Multiple Platforms
         text: >
           Our funnels work seamlessly across various channels like social media,
-          email, paid ads, and your website. Maximize your SaaS’s reach and
-          guide users smoothly through the buyer’s journey, no matter where
-          they’re coming from
+          email and your website. Maximize your SaaS’s reach and guide users
+          smoothly through the buyer’s journey
         image:
           url: /images/icon2.svg
           altText: Featured icon two
