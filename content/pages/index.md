@@ -83,7 +83,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: ''
         subtitle: Engage Users Across Multiple Platforms
         text: >
           Our funnels work seamlessly across various channels like social media,
