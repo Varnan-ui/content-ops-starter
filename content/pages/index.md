@@ -310,7 +310,6 @@ sections:
         subtitle: 'Rohit Kapoor, Product Manager, TaskFlow SaaS'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
