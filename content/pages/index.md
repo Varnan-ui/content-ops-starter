@@ -60,8 +60,7 @@ sections:
           We understand that every SaaS is different. That’s why we design
           funnels exclusively for your product and audience. From identifying
           your target users to crafting strategies that turn them into paying
-          customers, our AI ensures that every step of the funnel aligns with
-          your unique goals
+          customers
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
