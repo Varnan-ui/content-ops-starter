@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/avatar3.svg
+      url: /images/13318778_21Z_2103.w013.n001.418A.p15.418.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
