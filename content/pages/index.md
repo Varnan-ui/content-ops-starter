@@ -9,11 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      Turn your SaaS users into paying customers with precision-engineered AI
-      funnels. Our custom marketing funnels are tailored specifically for your
-      SaaS to help you attract users, nurture leads, and convert them into
-      long-term customers. Built to work seamlessly across multiple channels,
-      these funnels are your secret weapon for consistent growth
+      Our custom marketing funnels are tailored specifically for your SaaS to
+      help you attract users, nurture leads, and convert them into long-term
+      customers. Built to work seamlessly across multiple channels, these
+      funnels are your secret weapon for consistent growth
     actions:
       - label: Get started
         altText: ''
