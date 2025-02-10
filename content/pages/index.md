@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/background-grid.svg
+      url: /images/d8194fcedc2f2e630eca12f1c054851b-removebg-preview.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
