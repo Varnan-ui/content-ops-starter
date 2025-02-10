@@ -256,7 +256,6 @@ sections:
         subtitle: 'Aarav Mehta, Founder, CloudCraft Solutions'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
