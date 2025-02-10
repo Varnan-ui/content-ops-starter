@@ -7,7 +7,7 @@ sections:
       text: AI-Powered Custom Marketing Funnels
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Our custom marketing funnels are tailored specifically for your SaaS to
       help you attract users, nurture leads, and convert them into long-term
