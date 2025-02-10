@@ -14,7 +14,7 @@ sections:
       customers. Built to work seamlessly across multiple channels, these
       funnels are your secret weapon for consistent growth
     actions:
-      - label: Get started
+      - label: Build My Funnel Now
         altText: ''
         url: /
         showIcon: false
