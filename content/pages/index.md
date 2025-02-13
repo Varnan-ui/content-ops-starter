@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Build My Funnel Now
         altText: ''
-        url: '/https://calendly.com/gubloomishtu/free-consultation-call'
+        url: 'https://www.instagram.com/__aaarrti__/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
